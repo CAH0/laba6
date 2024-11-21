@@ -1,0 +1,5 @@
+﻿  Laba 6.cpp
+C:\Users\Александр\source\repos\Laba 6\Laba 6\Laba 6.cpp(208,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Александр\source\repos\Laba 6\Laba 6\Laba 6.cpp(70): warning C4715: unionV: значение возвращается не при всех путях выполнения
+C:\Users\Александр\source\repos\Laba 6\Laba 6\Laba 6.cpp(93): warning C4715: contrE: значение возвращается не при всех путях выполнения
+  Laba 6.vcxproj -> C:\Users\Александр\source\repos\Laba 6\Debug\Laba 6.exe
